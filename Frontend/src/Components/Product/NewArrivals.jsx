@@ -118,7 +118,7 @@ const NewArrivals = () => {
                     </div>
                 </div>
             ))}
-        </div>
+        </div> 
     </section>
   )
 }
